@@ -1,2 +1,2 @@
 # mmGesture
-Open data
+More descriptions about our code will be open
